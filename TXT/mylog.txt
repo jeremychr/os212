@@ -2,8 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 30 L04 GitHub Pages related
-ZCZC W00 60 L05 Reading slides
-ZCZC W00 45 L10 Assignment #00 Reading
+ZCZC W00 15 L11 Assignment #01 Create GitHub public repository "os212"
+ZCZC W00 15 L12 Assignment #02 Start week 00 log
+ZCZC W00 15 L13 Assignment #03 Create "os212" GitHub page
+ZCZC W00 5 L14 Assignment #04 Register course in Scele
+ZCZC W00 60 L15 Assingment #05 Reading slides
 ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 15 L22 Quiz W0
+ZCZC W01 10 L11 Assignment #01 Download + install VirtualBox
+ZCZC W01 30 L12 Assignment #02 Import a pre-installed OVA file (Debian 11)
+ZCZC W01 50 L13 Assignment #03 GSGS dan membaca referensi yang dirujuk
+ZCZC W01 60 L14 Assignment #04 Dress up virtual guest
+ZCZC W01 30 L15 Assignment #05 Set SSH keys to GitHub and cloning GitHub
+ZCZC W01 45 L16 Assignment #06 Dress up GitHub page
+ZCZC W01 15 L17 Assignment #07 Update mylog.txt
+ZCZC W01 45 L18 Assignment #08 Try bash, regex, sed, and awk
+ZCZC W01 30 L19 Assignment #09 Reading slides
+ZCZC W01 150 L02 ZOOM meeting related
