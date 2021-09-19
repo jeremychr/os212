@@ -16,3 +16,12 @@ Semua summary materi pembelajaran selama satu semester ada di sini. Terdapat jug
 
 4. [Markdown Syntax Guide](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)<br>
 Berbagai syntax Markdown dan juga contoh pemakaiannya ada di dalam web ini. Tentunya ini akan sangat beguna untuk ke depannya.
+
+5. [Tutorial Bahasa C](https://youtu.be/KJgsSFOSQv0)<br>
+Video ini mengajarkan berbagai konsep dasar tentang pemgrograman dengan bahasa C. Penjelasan di video ini tidak bertele-tele dan mudah dimengerti. Check it out guys!
+
+6. [Vi Editor Tutorial](https://youtu.be/pU2k776i2Zw)<br>
+Video ini mengajarkan kita bagaimana cara mengedit suatu text file dengan Vi editor. Durasi videonya singkat sehingga tidak membosankan.
+
+7. [Nano Text Editor Tutorial](https://www.niagahoster.co.id/blog/nano-text-editor)<br>
+Artikel ini memberikan petunjuk tentang bagaimana menggunakan Nano untuk mengedit suatu text file.
