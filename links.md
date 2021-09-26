@@ -25,3 +25,9 @@ Video ini mengajarkan kita bagaimana cara mengedit suatu text file dengan Vi edi
 
 7. [Nano Text Editor Tutorial](https://www.niagahoster.co.id/blog/nano-text-editor)<br>
 Artikel ini memberikan petunjuk tentang bagaimana menggunakan Nano untuk mengedit suatu text file.
+
+8. [File System Structure](https://www.ibm.com/docs/en/aix/7.2?topic=tree-file-system-structure)<br>
+Web ini berisi berbagai konsep dasar mengenai struktur file system. Informasi yang ada di sini sangat mudah dimengerti karena digambarkan dengan bagan yang sederhana.
+
+9. [Konsep Linux File System](https://youtu.be/HIXzJ3Rz9po)<br>
+Video ini bisa memberikan gambaran besar tentang file system di Linux kepada saya. Durasi video yang tidak begitu panjang dan penjelasan yang disertai dengan praktik langsung di terminal Linux menjadi nilai plus dari video ini.
