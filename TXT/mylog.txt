@@ -9,6 +9,7 @@ ZCZC W00 5 L14 Assignment #04 Register course in Scele
 ZCZC W00 60 L15 Assingment #05 Reading slides
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 15 L22 Quiz W0
+
 ZCZC W01 10 L11 Assignment #01 Download + install VirtualBox
 ZCZC W01 30 L12 Assignment #02 Import a pre-installed OVA file (Debian 11)
 ZCZC W01 50 L13 Assignment #03 GSGS dan membaca referensi yang dirujuk
@@ -19,6 +20,7 @@ ZCZC W01 15 L17 Assignment #07 Update "mylog.txt"
 ZCZC W01 45 L18 Assignment #08 Try bash, regex, sed, and awk
 ZCZC W01 30 L19 Assignment #09 Reading slides
 ZCZC W01 150 L02 ZOOM meetings related
+
 ZCZC W02 20 L22 Quiz W1
 ZCZC W02 45 L11 Assignment #01 Read OSC10 chapter 16 + 17
 ZCZC W02 60 L12 Assignment #02 Try C demos
@@ -34,6 +36,7 @@ ZCZC W02 3 L09 Assignment #11 Copy a simple and useful bash sscript
 ZCZC W02 10 L09 Assignment #12 Update "mylog.txt"
 ZCZC W02 5 L09 Assignment #13 Run "myscript.sh" to generate SHA256SUM and SHA256SUM.asc
 ZCZC W02 150 L02 ZOOM meetings related
+
 ZCZC W03 20 L22 Quiz W2
 ZCZC W03 70 L11 Assignment #01 Read OSC chapter 13 + 14 + 15
 ZCZC W03 60 L12 Assignment #02 Try C demos
@@ -46,3 +49,16 @@ ZCZC W03 10 L18 Assignment #08 Update "mylog.txt"
 ZCZC W03 20 L19 Assignment #09 Submit week 03 assignment
 ZCZC W03 20 L01 SCELE/Discord related Menjawab pertanyaan Pak Rahmat di forum Scele 
 ZCZC W03 150 L02 ZOOM meetings related
+
+ZCZC W04 20 L22 Quiz W3
+ZCZC W04 40 L11 Assignment #01 Read OSC10 chapter 9 
+ZCZC W04 50 L12 Assignment #02 Try C demos
+ZCZC W04 60 L13 Assignment #03 Try previous midterm problems
+ZCZC W04 3 L14 Assignment #04 Install package list 2 (TLPI)
+ZCZC W04 10 L15 Assignment #05 Fetch and extract file "WEEK04.tar.bz2.asc"
+ZCZC W04 15 L16 Assignment #06 Update bookmark links
+ZCZC W04 15 L17 Assignment #07 Review peer links and write it down into "myrank.txt"
+ZCZC W04 10 L18 Assignment #08 Update "mylog.txt"
+ZCZC W04 5 L19 Assignment #09 Submit week 04 assignment
+ZCZC W04 20 L01 SCELE/Discord related Menjawab pertanyaan Pak Rahmat di forum Scele
+ZCZC W03 100 L02 ZOOM meetings related
