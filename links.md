@@ -32,8 +32,8 @@ Web ini berisi berbagai konsep dasar mengenai struktur file system. Informasi ya
 9. [Konsep Linux File System](https://youtu.be/HIXzJ3Rz9po)<br>
 Video ini bisa memberikan gambaran besar tentang file system di Linux kepada saya. Durasi video yang tidak begitu panjang dan penjelasan yang disertai dengan praktik langsung di terminal Linux menjadi nilai plus dari video ini.
 
-10. [Intro to Linux Libraries](https://youtu.be/PP1JvrJp5WI)
+10. [Intro to Linux Libraries](https://youtu.be/PP1JvrJp5WI)<br>
 Video ini memperkenalkan kita dengan linux libraries dengan bahasa yang ringkas dan informatif.
 
-11. [Example of Paging in OS](https://youtu.be/pJ6qrCB8pDw)
+11. [Example of Paging in OS](https://youtu.be/pJ6qrCB8pDw)<br>
 Video ini memberikan contoh paging di dalam OS, yang disertai dengan penjelasan cara kerjanya secara detail.
