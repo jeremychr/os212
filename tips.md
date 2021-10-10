@@ -1,6 +1,6 @@
 ---
 layout: "layout"
-permalink: /LINKS/
+permalink: /TIPS/
 ---
 
 # HELPFUL TIPS
