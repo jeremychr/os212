@@ -37,3 +37,12 @@ Video ini memperkenalkan kita dengan linux libraries dengan bahasa yang ringkas 
 
 11. [Example of Paging in OS](https://youtu.be/pJ6qrCB8pDw)<br>
 Video ini memberikan contoh paging di dalam OS, yang disertai dengan penjelasan cara kerjanya secara detail.
+
+12. [Memory Allocation Algorithms](https://youtu.be/10vroQb5IdY)<br>
+Video ini memberikan pemahaman dan konsep dasar akan memory allocation algorithms secara padat dan jelas.
+
+13. [Non-Uniform Memory Access (NUMA)](https://p2k.um-surabaya.ac.id/IT/en/3045-2942/NUMA_12203_p2k-um-surabaya.html)<br>
+Web ini berisi penjelasan tentang segala hal mengenai NUMA, mulai dari pengertian, konsep dasar, perbedaan NUMA dengan cluster computing, dll.
+
+14. [Paging & Page Replacement Algorithms](https://youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp)<br>
+Playlist Youtube ini berisi penjelasan lengkap dan detail mengenai paging & page replacement algorithms. Ada 9 video di dalam playlist ini. Saya sangat merekomendasikan playlist ini untuk kalian tonton agar mempunyai pemahaman yang lebih mantap.
