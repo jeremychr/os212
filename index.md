@@ -5,4 +5,5 @@ This [GitHub Page](https://pages.github.com/) is hosted at [GitHub.com](https://
 
 ## Contents
 1. [Helpful Links](links.md)
-2. [My Log](TXT/mylog.txt)
+2. [Helpful Tips](tips.md)
+3. [My Log](TXT/mylog.txt)
