@@ -46,3 +46,9 @@ Web ini berisi penjelasan tentang segala hal mengenai NUMA, mulai dari pengertia
 
 14. [Paging & Page Replacement Algorithms](https://youtube.com/playlist?list=PLIY8eNdw5tW-BxRY0yK3fYTYVqytw8qhp)<br>
 Playlist Youtube ini berisi penjelasan lengkap dan detail mengenai paging & page replacement algorithms. Ada 9 video di dalam playlist ini. Saya sangat merekomendasikan playlist ini untuk kalian tonton agar mempunyai pemahaman yang lebih mantap.
+
+15. [Concurrency, Threading, and Parallelism](https://youtu.be/olYdb0DdGtM)<br>
+Video ini menjelaskan bagaimana sebuah thread bekerja, kemudian juga membahas mengenai arti dan perbedaan antara concurrency dan parallelism. Ilustrasi gambar yang diberikan pada video ini sangat membantu pemahaman kita.
+
+16. [Processes, init, fork/exec, ps, kill, fg, bg, jobs](https://youtu.be/TJzltwv7jJs)<br>
+Video ini memberikan pemahaman tentang cara kerja process dan berbagai komponen pendukungnya pada Linux. Durasi video yang tidak begitu panjang dan penjelasan yang disertai dengan praktik langsung di terminal Linux menjadi nilai plus dari video ini.
