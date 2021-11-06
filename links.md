@@ -52,3 +52,9 @@ Video ini menjelaskan bagaimana sebuah thread bekerja, kemudian juga membahas me
 
 16. [Processes, init, fork/exec, ps, kill, fg, bg, jobs](https://youtu.be/TJzltwv7jJs)<br>
 Video ini memberikan pemahaman tentang cara kerja process dan berbagai komponen pendukungnya pada Linux. Durasi video yang tidak begitu panjang dan penjelasan yang disertai dengan praktik langsung di terminal Linux menjadi nilai plus dari video ini.
+
+17. [Understanding Semaphores in Linux](https://linoxide.com/semaphore/)<br>
+Web ini memberikan penjelasan yang detail mengenai semaphore dan contoh implementasinya pada Linux. Kedua jenis semaphore juga dibahas di sini.
+
+18. [Difference Between Deadlock and Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/)<br>
+Web ini definisi dan fungsionalitas dari deadlock dan starvation, lalu menjelaskan letak perbedaan antara keduanya. Web ini recommended untuk kalian baca.
