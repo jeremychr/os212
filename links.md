@@ -58,3 +58,6 @@ Web ini memberikan penjelasan yang detail mengenai semaphore dan contoh implemen
 
 18. [Difference Between Deadlock and Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/)<br>
 Web ini definisi dan fungsionalitas dari deadlock dan starvation, lalu menjelaskan letak perbedaan antara keduanya. Web ini recommended untuk kalian baca.
+
+19. [CPU & I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo)<br>
+VIdeo ini memberikan penjelasan mengenai runtutan siklus burst CPU & I/O. Recommended untuk kalian tonton.
