@@ -97,3 +97,15 @@ ZCZC W07 10 L18 Assignment #08 Update "mylog.txt"
 ZCZC W07 5 L19 Assignment #09 Submit week 07 assignment
 ZCZC W07 15 L01 SCELE/Discord related Menjawab pertanyaan Pak Rahmat di forum Scele
 ZCZC W07 100 L02 ZOOM meetings related
+
+ZCZC W08 20 L22 Quiz W7
+ZCZC W08 60 L11 Assignment #01 Read OSC10 chapter 5
+ZCZC W08 35 L12 Assignment #02 Try C demos
+ZCZC W08 45 L13 Assignment #03 Try previous midterm problems
+ZCZC W08 25 L14 Assignment #04 LFS 11.0  Chapter 01-04
+ZCZC W08 90 L15 Assignment #05 LFS 11.0  Chapter 05
+ZCZC W08 15 L16 Assignment #06 Update bookmark links
+ZCZC W08 10 L18 Assignment #08 Review peer links and write it down into "myrank.txt"
+ZCZC W08 10 L19 Assignment #09 Update "mylog.txt"
+ZCZC W08 5 L20 Assignment #10 Submit week 08 assignment 
+ZCZC W08 100 L02 ZOOM meetings related
