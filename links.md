@@ -66,4 +66,4 @@ Video ini memberikan penjelasan mengenai runtutan siklus burst CPU & I/O. Recomm
 Video ini menjelaskan perbedaan antara mode legacy dan UEFI pada Bios. Durasi yang tergolong singkat dan penjelasan yang lengkap menjadi nilai plus dari video ini. Video ini juga disampaikan dalam bahasa Indonesia loh, wajib banget kalian tonton.
 
 21. [RAID (Redundant Array of Independent Disks)](https://searchstorage.techtarget.com/definition/RAID)<br>
-22. Web ini memberi saya pengertian yang cukup mendalam tentang RAID. Definisi, cara kerja, level, keuntungan dan kerugian, sampai sejarah dari RAID dibahas secara detail di dalam web ini.
+Web ini memberi saya pengertian yang cukup mendalam tentang RAID. Definisi, cara kerja, level, keuntungan dan kerugian, sampai sejarah dari RAID dibahas secara detail di dalam web ini.
