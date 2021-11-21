@@ -60,4 +60,10 @@ Web ini memberikan penjelasan yang detail mengenai semaphore dan contoh implemen
 Web ini definisi dan fungsionalitas dari deadlock dan starvation, lalu menjelaskan letak perbedaan antara keduanya. Web ini recommended untuk kalian baca.
 
 19. [CPU & I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo)<br>
-VIdeo ini memberikan penjelasan mengenai runtutan siklus burst CPU & I/O. Recommended untuk kalian tonton.
+Video ini memberikan penjelasan mengenai runtutan siklus burst CPU & I/O. Recommended untuk kalian tonton.
+
+20. [Perbedaan Mode Legacy dan UEFI Pada BIOS](https://youtu.be/cM6rCKssHJk)<br>
+Video ini menjelaskan perbedaan antara mode legacy dan UEFI pada Bios. Durasi yang tergolong singkat dan penjelasan yang lengkap menjadi nilai plus dari video ini. Video ini juga disampaikan dalam bahasa Indonesia loh, wajib banget kalian tonton.
+
+21. [RAID (Redundant Array of Independent Disks)](https://searchstorage.techtarget.com/definition/RAID)<br>
+22. Web ini memberi saya pengertian yang cukup mendalam tentang RAID. Definisi, cara kerja, level, keuntungan dan kerugian, sampai sejarah dari RAID dibahas secara detail di dalam web ini.
